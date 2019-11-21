@@ -3,7 +3,7 @@
 For Scripts Follow This Link -> https://github.com/jobtolmop/Vertical-Slice-Scripts
 
 Team Members:
-Job Tol GD2B
-Nanne Veldhuijzen van Zanten GD2B
-Marit de Kuyper GA2B
+Job Tol GD2B <br>
+Nanne Veldhuijzen van Zanten GD2B <br>
+Marit de Kuyper GA2B <br>
 Selina Kauffmann GA2B
