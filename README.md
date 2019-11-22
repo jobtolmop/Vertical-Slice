@@ -6,4 +6,4 @@ Team Members: <br>
 Job Tol GD2B <br>
 Nanne Veldhuijzen van Zanten GD2B <br>
 Marit de Kuyper GA2B <br>
-Selina Kauffmann GA2B
+Selina Kauffman GA2B
